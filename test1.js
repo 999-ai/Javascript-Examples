@@ -21,15 +21,7 @@ testLET();
 
 
 
-/*if (true) {
-    let message = "Let is described!";
-    console.log(message); 
-    }
-console.log(message);*/
 
-/*for (let i=0; i<3;i++){
-    console.log("they are in the cycle i:",i)}
-console.log("they are not in the cycle i:",i)normalde hata verir.Dongu dısında let tanımlanamaz i tanımıyor uyarısı verir*/
 
 
 
