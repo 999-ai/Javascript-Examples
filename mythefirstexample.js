@@ -12,7 +12,7 @@ function yourtest() {
         let message = "You have just told me";
         console.log(message); 
     }
-    // console.log(message); 
+ 
 }
 yourtest();
 
