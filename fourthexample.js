@@ -232,13 +232,13 @@ for (let i = n1; i >= 1; i--) {
   }
   console.log(line.trim());
 }
-//24-summation array
+//24-summation of array
 let sum=0;
 for(j=1;j<=5;j++){
     sum+=j;
 }
 console.log(`summation:${sum}`)
-//25-summation even numbers
+//25-summation of even numbers
 let sum1=0;
 let no=5;
 for (item=1;item<=no;item++){
@@ -246,7 +246,7 @@ for (item=1;item<=no;item++){
         {sum1+=item}
     }
 console.log(`summation of even numbers:${sum1}`)
-//26-summation odd numbers
+//26-summation of odd numbers
 let sum2=0;
 let myno=5;
 for (item=1;item<=myno;item++){
